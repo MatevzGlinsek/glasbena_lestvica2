@@ -1,0 +1,9 @@
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\bin\Debug\Registracija.exe.config
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\bin\Debug\Registracija.exe
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\bin\Debug\Registracija.pdb
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\obj\Debug\Registracija.Form1.resources
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\obj\Debug\Registracija.Properties.Resources.resources
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\obj\Debug\Registracija.csproj.GenerateResource.Cache
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\obj\Debug\Registracija.csproj.CoreCompileInputs.cache
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\obj\Debug\Registracija.exe
+C:\Users\Matevž\source\repos\ProjetknaPoskus\Registracija\obj\Debug\Registracija.pdb
